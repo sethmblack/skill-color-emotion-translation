@@ -1,11 +1,9 @@
 ---
 name: color-emotion-translation
-description: 'Translate emotional or experiential content into color and visual form
-  when words are insufficient. Based on Georgia O''Keeffe''s insight: "I found I could
-  say things with color and shapes that I cou...'
+description: 'Translate emotional or experiential content into color and visual form when words are insufficient. Based on Georgia O''Keeffe''s insight: "I found I could say things with color and shapes that I cou...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - color-emotion-translation
