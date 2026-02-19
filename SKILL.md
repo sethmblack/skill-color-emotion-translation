@@ -4,7 +4,7 @@ description: 'Translate emotional or experiential content into color and visual 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3624
+  version: 1.0.3625
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - color-emotion-translation
